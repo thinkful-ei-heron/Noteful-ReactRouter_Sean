@@ -1,0 +1,9 @@
+*{
+    box-sizing:border-box;
+}
+
+.Sidebar{
+    border:1px solid palevioletred;
+    width:30vw;
+    height:74.8vh;
+}

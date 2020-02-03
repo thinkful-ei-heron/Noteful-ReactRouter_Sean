@@ -1,0 +1,15 @@
+*{
+    box-sizing:border-box;
+}
+
+.SidebarNote{
+    border:1px solid palevioletred;
+    width:30vw;
+    height:74.8vh;
+}
+
+.folderDiv{
+    margin-top:5vh;
+    text-align: right;
+    padding:2%;
+}

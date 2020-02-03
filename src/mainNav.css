@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+.MainNav{
+    border:1px solid green;
+    width:70vw;
+    height:74.8vh;
+    display:flex;
+    flex-direction: column;
+}

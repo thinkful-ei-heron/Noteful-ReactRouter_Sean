@@ -1,0 +1,15 @@
+*{
+    box-sizing:border-box;
+}
+
+.MainNote{
+    border:1px solid green;
+    width:70vw;
+    height:74.8vh;
+    display:flex;
+    flex-direction: column;
+}
+
+p{
+    padding: 1%;
+}

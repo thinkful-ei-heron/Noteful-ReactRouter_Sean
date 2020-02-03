@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+.Folder{
+    height:10vh;
+    border:1px solid black;
+    text-align:right;
+}
+
+.folderText{
+    padding:2vh;
+}
